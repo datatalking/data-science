@@ -1,3 +1,4 @@
+![Bellevue College logo](https://s.bellevuecollege.edu/wp/sites/40/2016/02/BC-Identity-Versions-2-1024x504.jpg)
 ![Open Source Society logo](http://i.imgur.com/kYYCXtC.png)
 
 <h3 align="center">Open Source Society University</h3>
@@ -30,15 +31,18 @@
 
 ## About
 
-This is a **solid path** for those of you who want to complete a **Data Science** course on your own time, **for free**, with courses from the **best universities** in the World.
+I have modified the origional OSS curiculum [found here][webpage](https://github.com/ossu/data-science) to fit my needs and goals
 
-In our curriculum, we give preference to MOOC (Massive Open Online Course) style courses because these courses were created with our style of learning in mind.
+This is my **alternate path** for those of us who want to complete an online **Data Science** course on our own time, while obtaining an actual Data Science degree from an accredited school. To prepare for each class I supplement **for free**, with courses from the **best universities** in the World. MIT, Stanford, Harvard, UMich, UW, Rice... to count a few.
 
-## Becoming an OSS student
+In my curriculum, I give preference to MOOC (Massive Open Online Course) style courses as a prep or introduction to concepts but they are to be used as initial learning primers and then the full college class I dig deeper into the coursework.
 
-To officially register for this course you must create a profile in our [web app](https://ossu.firebaseapp.com).
+## Being a hybrid student
 
-**ps**: Currently, the web app is for tracking the progress of the [Computer Science](https://github.com/open-source-society/computer-science) path, but we are working to extend this functionality for all of our courses. Thanks for the comprehension.
+To officially register for all of these courses you could create a profile in our [web app](https://ossu.firebaseapp.com).
+Then go to [webpage](www.BellevueCollege.edu) and register for classes.
+
+**ps**: Currently, the web app is for tracking the progress of the [Computer Science](https://github.com/open-source-society/data-science) path, but we are working to extend this functionality for all of our courses. Thanks for the comprehension.
 
 > **"How can I do this?"**
 
