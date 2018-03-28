@@ -62,7 +62,7 @@ The second link is a MOOC that will teach you learning techniques used by expert
 
 **Are you ready to get started?**
 
-## Curriculum
+## MOOC Curriculum
 
 - [Linear Algebra](#linear-algebra)
 - [Single Variable Calculus](#single-variable-calculus)
