@@ -33,7 +33,7 @@
 
 I have modified the origional OSS curiculum [found here][webpage](https://github.com/ossu/data-science) to fit my needs and goals
 
-This is my **alternate path** for those of us who want to complete an online **Data Science** course on our own time, while obtaining an actual Data Science degree from an accredited school. To prepare for each class I supplement **for free**, with courses from the **best universities** in the World. MIT, Stanford, Harvard, UMich, UW, Rice... to count a few.
+This is my version of an **alternate path** for those of us who want to complete an online **Data Science** course on our own time, while obtaining an actual Data Science degree from an accredited school. To prepare for each class I supplement **for free**, with courses from the **best universities** in the World. MIT, Stanford, Harvard, UMich, UW, Rice... to count a few.
 
 In my curriculum, I give preference to MOOC (Massive Open Online Course) style courses as a prep or introduction to concepts but they are to be used as initial learning primers and then the full college class I dig deeper into the coursework.
 
