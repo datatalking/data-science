@@ -9,6 +9,64 @@
 
 Projects created by OSSU's students for each course of our [**Data Science**](https://github.com/open-source-society/data-science) curriculum.
 
+### Bellevue College Associates Transfer Degree###
+Course Typ.	Course#	Certs	Instructor	Course Title
+Humanities	Phil 101	Russ Payne	Philosophy Intro
+Quanitative	EngL& 101	Dickinson	English 101
+BTS 165	BTS 165			bus Spreadsheet Analysis & Design
+BUSIT 103	B.I.A.		
+Elective	IT101				Business Technology 101
+BC BA Elective	BUSIT202			Dimensional Modeling 
+Intro to Python	6.0.0.1				Easy Intro to python
+book		self paced	Oreilly beautiful soup 4 intro to web scraping
+				Oreilly Intro to Python
+Elective	Econ202				Macro Economics 202
+Elective	Econ201		Chris Hendricks	Micro Economics 201
+Elective	Prog160				PROG 160 Systems Analysis & Design
+Quanitative	MATH 130	B.I.A.		intro to Statistics (5 Cr)
+elective	MATH 138 biz			College Algebra, 142 is for for science majors
+Natural Science	Nat 301				Mathmatics
+Elective	BUS& 101	Andy Johnson	intro to bus - niki cheng
+Elective	BUSIT 103			SQL Fundamentals
+quanitative	MATH98				Math 
+Social Sciences	Phil 102			Philosophy 102
+Elective	BUSIT 105	B.I.A.		intro to bus intell
+Elective	BUSIT 115	Debb Griggs	Data Mining I
+Elective	BUSIT 209	B.I.A.		Data Visualization
+Quanitative	Qua 101				Math 138 College Algebra for Bus or Math 141 Precalc
+Social Sciences	Soc 301				Social Science course from the AAS-DTA list
+Social Sciences	Bus 101				Bus 101
+Humanities	Hum 101				Humanities course from the AAS-DTA list
+Humanities	Hum 201				Humanities course from the AAS-DTA list
+Natural Science	Nat 101				Natural Science (life) course from the AAS-DTA list*
+Natural Science	Nat 201				Philosophy 120
+
+### Bellevue College Bachelors Degree Classes Master###
+CMST 340			Applied org Communication
+DA 310		pete bloomsberg	intro to Analytics 
+DA 320				Data Acquisition and manage
+DA 410				Multivariate Analytics
+DA 420				Predictive Analytics
+DA 430				Marketing Analytics
+DA 485				Capstone Project
+DA 4XX				Elective
+Dba 232				DBA 232 Database Administration
+ECON 4XX			Econometrics
+PHIL 375			Ethics in Information  Technology
+BA240		Yancy Chow	stats Analysis
+ENGL& 235			Technical Writing
+"INTST 150
+BUS& 101
+BUSIT 103"			Internal Bus, or Intro to Bus, SQL Fundam
+ISIT 330			bus intell Applications
+ISIT 334			Data Visualization
+ISIT 336			Dimensional Modeling
+ISIT 337			Predictive Analytics
+ISIT 434			Web Analytics
+MATH 341			Applied stats  Methods  I
+MATH 342			Applied stats Methods II
+
+
 ### Linear Algebra
 Project Title | Description | Authors | Repository
 :-- | :-- | :--: | :--
