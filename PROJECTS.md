@@ -67,12 +67,38 @@ Projects created by OSSU's students for each course of our [**Data Science**](ht
 * MATH 342			Applied stats Methods II
 
 
+### Programming languages
+#### UMich Python, Learn python the hard way
+Python programming language: Python is a high level programming language with many useful packages written for it. Know these Python packages
+* numpy: an optimized python library for numerical analysis, specifically: large, multi-dimensional arrays and matrices
+*  pandas: an optimized python library for data analysis including dataframes inspired by R
+  matplotlib: a 2D plotting library for python, includes the pyplot interface which provides a MATLAB-like interface (see ipython notebooks and seaborn below)
+*  scipy: a library for scientific computing and technical computing
+*  scikit-learn: machine learning library built on NumPy, SciPy, and matplotlib
+                  www.udacity.com Ultimate Skills Checklist for Your First Data Analyst Job 5
+*  optional:
+*  ipython: an improved interactive shell for python with introspection,
+rich media, additional shell syntax, tab completion, and richer history
+  ipython notebooks: a web-based interactive computational environment
+*  anaconda: a python package manager for science, math, engineering, data analysis with the intent of simplifying and maintaining compatibility between library versions. Also useful for getting started with ipython notebooks.
+*  ggplot: and (in-progress) port of R’s ggplot2 which premised upon a grammar of graphics
+*  seaborn: a Python visualization library based on matplotlib with a high-level interface
+
+### Spreadsheet tools Excel and Tableau
+ These tools visually present data into rows and columns allowing for easy data manipulation. Many organization analyze and communicate data through spreadsheets.
+  * Create dashboards and pivot table reports to share for business analysts
+  * Dashboards for telling a storey about the data.
+  * Javascript and HTML for D3.js - thse are web development languages which turn static visualizations into interactive visualizations to create online dashboards and reports. Javascript packages include:
+  D3.js
+  AJAX implementation - nice to know
+  jQuery - nice to know
+
 ### Linear Algebra
-#mit class 1 and 2
+# mit class 1 and 2
 Project Title | Description | Authors | Repository
 :-- | :-- | :--: | :--
-| MIT Linear Algebra | Algebra 1 | Prof. Michael Artin [https://ocw.mit.edu/courses/mathematics/18-701-algebra-i-fall-2010/]
-| MIT Linear Algebra | Algebra 2 | Prof. Michael Artin [https://ocw.mit.edu/courses/mathematics/18-702-algebra-ii-spring-2011/]
+| MIT Linear Algebra | Algebra 1 | Prof. Michael Artin ([https://ocw.mit.edu/courses/mathematics/18-701-algebra-i-fall-2010/])
+| MIT Linear Algebra | Algebra 2 | Prof. Michael Artin ([https://ocw.mit.edu/courses/mathematics/18-702-algebra-ii-spring-2011/])
 ### Single Variable Calculus
 Project Title | Description | Authors | Repository # mit
 :-- | :-- | :--: | :--
