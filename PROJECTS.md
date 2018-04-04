@@ -29,7 +29,7 @@ Projects created by OSSU's students for each course of our [**Data Science**](ht
 * Elective	BUS& 101	Andy Johnson	intro to bus - niki cheng
 * Elective	BUSIT 103			SQL Fundamentals
 * quanitative	MATH98				Math 
-* Social Sciences	Phil 102			Philosophy 102
+* - Social Sciences	Phil 102			Philosophy 102
 * Elective	BUSIT 105	B.I.A.		intro to bus intell
 * Elective	BUSIT 115	Debb Griggs	Data Mining I
 * Elective	BUSIT 209	B.I.A.		Data Visualization
